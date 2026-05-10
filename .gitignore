@@ -1,0 +1,7 @@
+# Ignore heavy dependencies
+mindbloom/node_modules/
+backend/venv/
+backend/__pycache__/
+
+# Ignore environment variables if you ever add them
+.env
